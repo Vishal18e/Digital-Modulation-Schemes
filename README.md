@@ -6,9 +6,11 @@ There are many types of digital modulation techniques and also their combination
 ## Simulated Graph for BER vs different Digital Modulation schemes.
 ![Simulated Digital Modulation models](https://user-images.githubusercontent.com/69033172/132887938-c3a9bb12-7775-4604-b4b7-7c3a54ecbcc9.png)
 ## Received and Transmitted Image under different Digital Modulations.
-#### SNR 2db.
+#### Pandas Image SNR 2db.
 ![panda_snr_2](https://user-images.githubusercontent.com/69033172/132887306-e912734a-76d3-483e-a695-f087b4a6aca0.png)
-#### SNR 5db.
+#### Pandas Image SNR 5db.
 ![panda_snr_5](https://user-images.githubusercontent.com/69033172/132887505-87ab1b18-e28b-4127-a484-4a192d6d592b.png)
-#### SNR 15db.
+#### Pandas Image SNR 15db.
 ![panda_snr_15](https://user-images.githubusercontent.com/69033172/132887567-aff320a1-97b3-4e33-80d6-e18394662c76.png)
+#### Nature Image SNR 2db.
+![nature_snr_2](https://user-images.githubusercontent.com/69033172/132888380-4c939ebb-ec30-4414-82e5-0f6f7730c13c.png)
